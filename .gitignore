@@ -1,0 +1,5 @@
+terraform/backend/.terraform*
+terraform/.terraform*
+# Ignore Terraform lock files
+*.tfstate
+*.tfstate.backup
